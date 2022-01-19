@@ -1,0 +1,64 @@
+﻿@model List<News>
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <button type="button" onclick="location.href='@Url.Action("Refresh", "Home")'">ОБНОВИТЬ</button>
+    <style>
+        td, th, table{
+            border:1px black solid;
+        }
+        button {
+            background-color: #ba68c8;
+            color: white;
+            border-radius: 15px;
+            margin: auto;
+        }
+    </style>
+    <table>
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Date</th>
+                <th>Text</th>
+                <th>
+                    Link
+                </th>
+                <th>
+                    Количество комментариев
+                </th>
+                <th>
+                    Количество просмотров
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @item.Title
+                    </td>
+                    <td>
+                        @item.Date
+                    </td>
+                    <td>
+                        @item.Text
+                    </td>
+                    <td>
+                        @item.Link
+                    </td>
+                    <td>
+                        @item.Comments
+                    </td>
+                    <td>
+                        @item.Views
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>
