@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/JJiUIG/MJhUdBn7k80e8a5MSb2n8RcUa5cf7O4a4NphxT+50BA9OAOF1tTLuXAm6HJ2BMffrT/A55+Hzgz/1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\karma\\source\\repos\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karma\\.nuget\\packages\\htmlagilitypack\\1.11.40\\htmlagilitypack.1.11.40.nupkg.sha512"
+  ],
+  "logs": []
+}
