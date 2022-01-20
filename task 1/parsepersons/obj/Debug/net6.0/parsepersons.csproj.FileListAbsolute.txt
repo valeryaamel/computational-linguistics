@@ -1,0 +1,17 @@
+C:\Users\karma\source\repos\parsepersons\parsepersons\bin\Debug\net6.0\parsepersons.exe
+C:\Users\karma\source\repos\parsepersons\parsepersons\bin\Debug\net6.0\parsepersons.deps.json
+C:\Users\karma\source\repos\parsepersons\parsepersons\bin\Debug\net6.0\parsepersons.runtimeconfig.json
+C:\Users\karma\source\repos\parsepersons\parsepersons\bin\Debug\net6.0\parsepersons.dll
+C:\Users\karma\source\repos\parsepersons\parsepersons\bin\Debug\net6.0\ref\parsepersons.dll
+C:\Users\karma\source\repos\parsepersons\parsepersons\bin\Debug\net6.0\parsepersons.pdb
+C:\Users\karma\source\repos\parsepersons\parsepersons\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\karma\source\repos\parsepersons\parsepersons\obj\Debug\net6.0\parsepersons.csproj.AssemblyReference.cache
+C:\Users\karma\source\repos\parsepersons\parsepersons\obj\Debug\net6.0\parsepersons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karma\source\repos\parsepersons\parsepersons\obj\Debug\net6.0\parsepersons.AssemblyInfoInputs.cache
+C:\Users\karma\source\repos\parsepersons\parsepersons\obj\Debug\net6.0\parsepersons.AssemblyInfo.cs
+C:\Users\karma\source\repos\parsepersons\parsepersons\obj\Debug\net6.0\parsepersons.csproj.CoreCompileInputs.cache
+C:\Users\karma\source\repos\parsepersons\parsepersons\obj\Debug\net6.0\parsepersons.csproj.CopyComplete
+C:\Users\karma\source\repos\parsepersons\parsepersons\obj\Debug\net6.0\parsepersons.dll
+C:\Users\karma\source\repos\parsepersons\parsepersons\obj\Debug\net6.0\ref\parsepersons.dll
+C:\Users\karma\source\repos\parsepersons\parsepersons\obj\Debug\net6.0\parsepersons.pdb
+C:\Users\karma\source\repos\parsepersons\parsepersons\obj\Debug\net6.0\parsepersons.genruntimeconfig.cache

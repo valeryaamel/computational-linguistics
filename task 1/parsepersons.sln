@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parsepersons", "parsepersons\parsepersons.csproj", "{44D8E778-68EC-42F5-B8CA-D17E54C0CC1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44D8E778-68EC-42F5-B8CA-D17E54C0CC1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D8E778-68EC-42F5-B8CA-D17E54C0CC1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D8E778-68EC-42F5-B8CA-D17E54C0CC1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D8E778-68EC-42F5-B8CA-D17E54C0CC1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA74EF86-A700-4AE5-848B-550578D65B8F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "05fKhv3G2+2MAAeF/35k1VcK2DJuvYa3iYejxDLWt+mgiOO5RAx0TVh5+yPDkWVVhkEqaRkIBQiNPWabjweAhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\karma\\source\\repos\\parsepersons\\parsepersons\\parsepersons.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karma\\.nuget\\packages\\htmlagilitypack\\1.11.40\\htmlagilitypack.1.11.40.nupkg.sha512"
+  ],
+  "logs": []
+}
