@@ -1,0 +1,24 @@
+encoding "utf8";
+
+TTextMinerConfig {
+  Dictionary = "mydic.gzt";
+
+  Input = {
+    File = "test.txt";
+  }
+
+  Articles = [
+    { Name = "People" },
+    { Name = "Attraction" }
+  ]
+
+  Facts = [
+    { Name = "Person" },
+    { Name = "AttractionObj" }
+  ]
+
+  Output = {
+    File = "facts.txt";
+    Format = text;
+  }
+}
